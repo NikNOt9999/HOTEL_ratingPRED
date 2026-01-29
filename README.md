@@ -68,9 +68,15 @@
 ## 📁 Структура проекта
 
 ├── data/ # Исходные данные
+
 ├── notebooks/ # Jupyter Notebook с анализом
+
 ├── src/
+
 │ ├── preprocess.py # Модуль препроцессинга
+
 │ └── train.py # Обучение модели
+
 ├── submission.csv # Файл для отправки на Kaggle
+
 └── README.md

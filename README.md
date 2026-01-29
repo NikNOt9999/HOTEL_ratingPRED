@@ -51,7 +51,7 @@
 ## 📈 Kaggle
 
 Решение участвует в соревновании на [Kaggle](https://www.kaggle.com/competitions/sf-booking/code?competitionId=34288&sortBy=dateRun&tab=profile&excludeNonAccessedDatasources=false).  
-Мой профиль: [ваш_ссылка_на_kaggle](https://https://www.kaggle.com/arturnilin)
+Мой профиль: [kaggle](https://https://www.kaggle.com/arturnilin)
 
 ---
 
